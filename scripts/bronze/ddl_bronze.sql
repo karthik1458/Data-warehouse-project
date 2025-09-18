@@ -64,3 +64,4 @@ cat VARCHAR (50),
 sub_cat VARCHAR (50),
 maintenance VARCHAR (50)
 );
+
